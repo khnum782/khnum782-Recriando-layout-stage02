@@ -5,4 +5,4 @@ atividade stage 02 do explorer RocketSeat
 TECNOLOGIA
 
 HTMl
-Css
+CSS
